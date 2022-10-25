@@ -1,1 +1,1 @@
-pnpm install-completion
+pnpm install-completion bash
