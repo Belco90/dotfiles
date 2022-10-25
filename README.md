@@ -1,4 +1,4 @@
-# Bring your Dotfiles to Gitpod
+# My Dotfiles
 
 Personal Dotfiles, mainly for local env and Gitpod.
 
