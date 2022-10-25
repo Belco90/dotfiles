@@ -6,11 +6,12 @@ CURRENT=$PWD
 
 cd $TMPDIR
 
+# Load bash aliases
+. ~/.dotfiles/.bash_aliases
+
 for script in ~/.dotfiles/scripts/*; do
   bash "$script"
 done
-
-source ~/.dotfiles/.bash_aliases
 
 cd $CURRENT
 
